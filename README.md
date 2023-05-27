@@ -2,4 +2,4 @@
 
 Deployed Link :-
 
-https://github.com/Shashankdp/Javascript-Contest-3
+https://shashankdp.github.io/Javascript-Contest-3/
